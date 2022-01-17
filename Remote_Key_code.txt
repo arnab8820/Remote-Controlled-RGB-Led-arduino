@@ -1,0 +1,25 @@
+# Remote keycode mapping
+
+Remote Key      Hex value
+==========      =========
+POWER           0x12
+MODE            0x1A
+MUTE            0x1E
+PLAY/PAUSE      0x1
+PREV            0x2
+NEXT            0x3
+EQ              0x4
+VOL-            0x5
+VOL+            0x6
+RPT             0x8
+U/SD            0x9
+0               0x7
+1               0xA
+2               0x1B
+3               0x1F
+4               0xC
+5               0xD
+6               0xE
+7               0x0
+8               0xF
+9               0x19
